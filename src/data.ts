@@ -14,6 +14,7 @@ export const data = {
   p3: 'Цифровые гектары – это инновационный продукт, выпускаемый в формате ЦФА.',
   cfaNumber: 'SMLT-1-DTD-092024-00073',
   cfaPrice: '10 000 ₽',
+  cfaPriceNumber: 10_000,
   cfaVolume: 'от 10 000 000 ₽ до 200 000 000 ₽',
   cfaVolumeM2: 'от 1 000 м2 до 20 000 м2',
   cfaPeriodPayment: 'В конце срока',
